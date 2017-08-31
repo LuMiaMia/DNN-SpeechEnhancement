@@ -1,4 +1,4 @@
-# DNN-SpeechEnhancement
+# DNN-SpeechEnhancement using Tensorflow
 
 Use TensorFlow to realize a DNN-based speech enhancement system, which refers to the paper below: 
 
